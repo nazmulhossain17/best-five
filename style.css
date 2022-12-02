@@ -30,6 +30,11 @@
     font-size: 100px;
 }
 
+#box{
+    font-size: larger;
+    color: blueviolet;
+}
+
 footer {
     text-align: center;
     background-color: #ffffff;
