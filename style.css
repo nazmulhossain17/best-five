@@ -1,0 +1,31 @@
+
+.landing {
+    display: flex;
+    align-items: center;
+    padding: 40px 0;
+    margin-left: 11%;
+    overflow-x: hidden;
+  }
+
+  .landing .landing-text {
+    flex: 1;
+    min-width: 465px;
+}
+
+.landing .landing-text h1 {
+    width: 100%;
+    font-size: 3.9em;
+    line-height: 1.15;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .landing .landing-text p {
+    font-size: 18px;
+    max-width: 500px;
+    margin: 0 0 29.41176px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.list{
+    font-size: 100px;
+}
